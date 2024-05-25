@@ -31,3 +31,9 @@
    ```
    poetry add pytest
    ```
+
+7. Run Pytest
+
+   ```
+   poetry run pytest
+   ```

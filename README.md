@@ -22,3 +22,4 @@
    ```
    http://127.0.0.1:8000/docs
    ```
+   _It is the documentation of all routes_

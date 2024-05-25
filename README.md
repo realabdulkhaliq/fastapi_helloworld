@@ -40,6 +40,4 @@
 
     _You can also use -v flag_
 
-        ```
         poetry run pytest -v
-        ```

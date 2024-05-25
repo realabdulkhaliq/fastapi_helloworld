@@ -10,7 +10,7 @@
    poetry add fastapi "uvicorn[standard]"
    ```
 
-3. Run Unicorn Server
+3. Run Uvicorn Server
 
    ```
    poetry run uvicorn fastapi_helloworld.main:app --reload

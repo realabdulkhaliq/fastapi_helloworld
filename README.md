@@ -19,7 +19,15 @@
 4. Ctrl + Click on Generated URL
 
 5. FastApi DOCS
+
    ```
    http://127.0.0.1:8000/docs
    ```
+
    _It is the documentation of all routes_
+
+6. Pytest
+
+   ```
+   poetry add pytest
+   ```

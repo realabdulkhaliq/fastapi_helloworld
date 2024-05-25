@@ -1,39 +1,45 @@
 # FastAPI HelloWorld Project
 
-1. Create an New project
-   ```
-   poetry new fastapi_helloworld
-   ```
-2. Add FastAPI and Uvicorn Server
+1.  Create an New project
+    ```
+    poetry new fastapi_helloworld
+    ```
+2.  Add FastAPI and Uvicorn Server
 
-   ```
-   poetry add fastapi "uvicorn[standard]"
-   ```
+    ```
+    poetry add fastapi "uvicorn[standard]"
+    ```
 
-3. Run Uvicorn Server
+3.  Run Uvicorn Server
 
-   ```
-   poetry run uvicorn fastapi_helloworld.main:app --reload
-   ```
+    ```
+    poetry run uvicorn fastapi_helloworld.main:app --reload
+    ```
 
-4. Ctrl + Click on Generated URL
+4.  Ctrl + Click on Generated URL
 
-5. FastApi DOCS
+5.  FastApi DOCS
 
-   ```
-   http://127.0.0.1:8000/docs
-   ```
+    ```
+    http://127.0.0.1:8000/docs
+    ```
 
-   _It is the documentation of all routes_
+    _It is the documentation of all routes_
 
-6. Pytest
+6.  Pytest
 
-   ```
-   poetry add pytest
-   ```
+    ```
+    poetry add pytest
+    ```
 
-7. Run Pytest
+7.  Run Pytest
 
-   ```
-   poetry run pytest
-   ```
+    ```
+    poetry run pytest
+    ```
+
+    _You can also use -v flag_
+
+        ```
+        poetry run pytest -v
+        ```

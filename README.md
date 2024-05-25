@@ -41,3 +41,11 @@
     _You can also use -v flag_
 
         poetry run pytest -v
+
+8.  Project paths
+    ```
+    http://127.0.0.1:8000/
+    http://127.0.0.1:8000/piaic/
+    http://127.0.0.1:8000/docs/
+    http://127.0.0.1:8000/openapi.json
+    ```

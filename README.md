@@ -14,3 +14,4 @@
    ```
    poetry run uvicorn fastapi_helloworld.main:app --reload
    ```
+4. Ctrl + Click on Generated URL

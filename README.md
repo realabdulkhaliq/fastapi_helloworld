@@ -17,3 +17,5 @@
    ```
 
 4. Ctrl + Click on Generated URL
+
+5. FastApi DOCS

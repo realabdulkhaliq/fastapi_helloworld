@@ -4,3 +4,8 @@
    ```
    poetry new fastapi_helloworld
    ```
+2. Add FastAPI and Uvicorn Server
+
+   ```
+   poetry add fastapi "uvicorn[standard]"
+   ```
